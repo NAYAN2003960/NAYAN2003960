@@ -1,6 +1,6 @@
 ## Hi, I'm Nayan Kumar! 👋
 
-<!--
+<--
 BTECH in CSE (2021-2025)| 💻 Aspiring CSE Student| 
 🌍 Based in India | 📚 Lifelong Learner | 💡 Passionate about solving real-world problems with code
 
@@ -27,4 +27,4 @@ BTECH in CSE (2021-2025)| 💻 Aspiring CSE Student|
 - 📝 [Resume - (https://drive.google.com/file/d/1vfEeTNyKlpNXXJDyneP573Tk4LRcmawx/view?usp=drivesdk)]
 - 📧 Email: kumarnayan2028@gmail.com
 - 😄 Pronouns: Hi/Him
---!>
+-->
